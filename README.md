@@ -1,6 +1,6 @@
 # Heap Operations Project
 
-A C++ project demonstrating custom min-heap operations.
+A C++ project demonstrating custom min-heap operations. Compiled with g++.
 
 ## File Structure
 
